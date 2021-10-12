@@ -50,16 +50,7 @@ where
 
 ## Parameters
 
-- [`url`](#url)
-- [`auth`](#auth)
-- [`params`](#params)
-- [`method`](#method)
-- [`headers`](#headers)
-- [`data`](#data)
-- [`open_timeout`](#open_timeout)
-- [`read_timeout`](#read_timeout)
-- [`ssl_verify`](#ssl_verify)
-- [`max_redirects`](#max_redirects)
+- `url`, `auth`, `params`, `method`, `headers`, `data`, `open_timeout`, `read_timeout`, `ssl_verify`, `max_redirects`
 
 ## Parameter Examples
 
@@ -154,10 +145,7 @@ where
 
 ## Properties
 
-- [`body`](#body)
-- [`headers`](#headers)
-- [`http_method`](#http_method)
-- [`status`](#status)
+- `body`, `headers`, `http_method`, `status`
 
 ### body
 
